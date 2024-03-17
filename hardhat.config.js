@@ -1,16 +1,12 @@
 const { HardhatUserConfig } = require("hardhat/config");
 require("@nomicfoundation/hardhat-toolbox");
 require("@truffle/dashboard-hardhat-plugin");
-
-
-// The next line is part of the sample project, you don't need it in your
-// project. It imports a Hardhat task definition, that can be used for
-// testing the frontend.
-require("./tasks/faucet");
+require('solidity-docgen');
 
 /** @type import('hardhat/config').HardhatUserConfig */
 
 const config = {
+  docgen: {},
   mocha: {
     timeout: 10000000000
   },

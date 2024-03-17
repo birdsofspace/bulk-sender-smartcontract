@@ -3,9 +3,9 @@
 
 const path = require("path");
 
+const contractName = "ERC20BulkSender";
 async function main() {
 
-  const contractName = "Token";
   // This is just a convenience check
   if (network.name === "hardhat") {
     console.warn(
@@ -45,21 +45,21 @@ function saveFrontendFiles(token) {
     fs.readFileSync(path.join(contractsDir, "smartcontract.json"), "utf8")
   );
 
-  const TokenArtifact = artifacts.readArtifactSync("Token");
+  const TokenArtifact = artifacts.readArtifactSync(contractName);
   const abi = TokenArtifact.abi;
   const contractAddress = token.address;
   try {
     smartContract.results.push({
       json_abi: abi,
       contract_address: contractAddress,
-      contract_name: "Token",
+      contract_name: contractName,
     });
   } catch (error) {
     smartContract = {
       results: [{
         json_abi: abi,
         contract_address: contractAddress,
-        contract_name: "Token",
+        contract_name: contractName,
       }]
     };
   }
