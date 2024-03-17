@@ -8,27 +8,27 @@ This project contains information about various blockchain networks and their as
 
 ### Ethereum Mainnet
 
-- [Etherscan](https://holesky.etherscan.io/address/0x2ed67536a3aeed97102507f967628b73167502df)
+- [https://holesky.etherscan.io/address/0x2ed67536a3aeed97102507f967628b73167502df](https://holesky.etherscan.io/address/0x2ed67536a3aeed97102507f967628b73167502df)
 
 ### Optimism
 
-- [Blockscout](https://optimism-sepolia.blockscout.com/address/0x2ed67536A3AeEd97102507f967628b73167502df)
+- [https://optimism-sepolia.blockscout.com/address/0x2ed67536A3AeEd97102507f967628b73167502df](https://optimism-sepolia.blockscout.com/address/0x2ed67536A3AeEd97102507f967628b73167502df)
 
 ### Arbitrum
 
-- [Arbitrum Explorer](https://sepolia-explorer.arbitrum.io/address/0x2ed67536A3AeEd97102507f967628b73167502df)
+- [https://sepolia-explorer.arbitrum.io/address/0x2ed67536A3AeEd97102507f967628b73167502df](https://sepolia-explorer.arbitrum.io/address/0x2ed67536A3AeEd97102507f967628b73167502df)
 
 ### Binance Smart Chain Testnet
 
-- [BscScan](https://testnet.bscscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df)
+- [https://testnet.bscscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df](https://testnet.bscscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df)
 
 ### Fantom Testnet
 
-- [FantomScan](https://testnet.ftmscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df)
+- [https://testnet.ftmscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df](https://testnet.ftmscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df)
 
 ### Polygon Testnet (Mumbai)
 
-- [Polygon Mumbai Explorer](https://mumbai.polygonscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df)
+- [https://mumbai.polygonscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df](https://mumbai.polygonscan.com/address/0x2ed67536a3aeed97102507f967628b73167502df)
 
 ### Polygon Mainnet
 
