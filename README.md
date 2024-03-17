@@ -32,7 +32,7 @@ This project contains information about various blockchain networks and their as
 
 ### Polygon Mainnet
 
-- [PolygonScan](https://polygonscan.com/address/0x2ed67536A3AeEd97102507f967628b73167502df)
+- [https://polygonscan.com/address/0x2ed67536A3AeEd97102507f967628b73167502df](https://polygonscan.com/address/0x2ed67536A3AeEd97102507f967628b73167502df)
 
 ## Usage
 
