@@ -6,15 +6,15 @@ This project contains information about various blockchain networks and their as
 
 ## Network Addresses
 
-### Ethereum Mainnet
+### Ethereum Holesky Testnet
 
 - [https://holesky.etherscan.io/address/0x2ed67536a3aeed97102507f967628b73167502df](https://holesky.etherscan.io/address/0x2ed67536a3aeed97102507f967628b73167502df)
 
-### Optimism
+### Optimism Sepolia Testnet
 
 - [https://optimism-sepolia.blockscout.com/address/0x2ed67536A3AeEd97102507f967628b73167502df](https://optimism-sepolia.blockscout.com/address/0x2ed67536A3AeEd97102507f967628b73167502df)
 
-### Arbitrum
+### Arbitrum Sepolia Testnet
 
 - [https://sepolia-explorer.arbitrum.io/address/0x2ed67536A3AeEd97102507f967628b73167502df](https://sepolia-explorer.arbitrum.io/address/0x2ed67536A3AeEd97102507f967628b73167502df)
 
